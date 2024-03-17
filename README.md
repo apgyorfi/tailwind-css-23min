@@ -3,7 +3,7 @@ Videó: https://www.youtube.com/watch?v=W-LDhPyv478
 Forrás repo: https://github.com/jamezmca/crystal-maths
 
 ## Projekt inicializálása
-*A projektben Vanilla Framework lesz használva, de a TailWind CDD keretrendszertől függetlenül használható!*
+*A projektben Vanilla Framework lesz használva, de a Tailwind CSS keretrendszertől függetlenül használható!*
 
 Projekt neve: `tailwind-css-23min`
 
